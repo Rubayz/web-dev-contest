@@ -1,0 +1,16 @@
+.first-page {
+    padding: 30px;
+}
+.first-page:hover {
+    background-image: linear-gradient(45deg, rgb(57, 109, 57), lime);
+    color: white;
+}
+.first-page button {
+    color: white;
+    margin: 100px;    
+    width: 200px;
+}
+.half-starter {
+    padding: 10px;
+    margin-right: 10px;
+}
